@@ -12,4 +12,4 @@ function testport ($hostname=$args[0],[int[]]$Port=$args[1],$timeout=200) {
 }
 
 
-testport testport $args[0] $args[1]
+testport $args[0] $args[1]
